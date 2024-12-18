@@ -1,0 +1,12 @@
+Product Backlog / User Story
+What big picture product features need to be completed in order to have a successful product? Note, in this section you might need to include sketches to better aid in a strangers understanding of the goal of this product.
+
+The idea for this application is to create a source of feedback in an office scenario. With 100s of people in an office building, simple contacts to a manger about different complaints, issues, or other sources of feedback may take a long time to be responded to or even end up being ignored. With this application, feedback can be stored in an API accessible to anyone in the office to avoid delays of responses. 
+
+Planning and brainstorming
+Include brainstorming and how you plan to program the solution.
+
+I will have a textbox where the user can enter a problem or feedback that will be stored in an API. Once stored in the API, the user will get a message saying that their sentence has been saved in the API. The API will also store whether the data is just for the user or food anyone in the office to answer which will be coded with a question and 2 buttons to chose the options. Based on the button pressed, it will store who the receiver of the feedback will be in the API. 
+
+
+
